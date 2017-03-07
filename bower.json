@@ -1,0 +1,24 @@
+{
+  "name": "propeller",
+  "version": "0.0.1",
+  "homepage": "https://github.com/sunil-digicorp/propeller",
+  "authors": [
+    "Digicorp <admin@propeller.in>"
+  ],
+  "description": "This is bower package of propeller",
+  "main": "dist\\js\\propeller.js",
+  "keywords": [
+    "propeller",
+    "javascript",
+    "html",
+    "css"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
