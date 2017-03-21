@@ -1,24 +1,29 @@
 {
   "name": "propeller",
-  "version": "0.0.1",
-  "homepage": "https://github.com/sunil-digicorp/propeller",
+  "version": "0.0.2",
+  "homepage": "http://propeller.in/",
   "authors": [
-    "Digicorp <admin@propeller.in>"
+    "Digicorp, Inc"
   ],
-  "description": "This is bower package of propeller",
+  "description": "Propeller is a front-end responsive framework based on Google's Material Design Standards & Bootstrap.",
   "main": "dist\\js\\propeller.js",
   "keywords": [
-    "propeller",
-    "javascript",
-    "html",
-    "css"
+   "css",
+  "js",
+  "mobile-first",
+  "responsive",
+  "front-end",
+  "framework",
+  "web"
   ],
   "license": "MIT",
   "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test",
-    "tests"
-  ]
+    "archive",
+    "templates",
+	   "components/*/snippets/**"
+  ],
+  "dependencies": {
+    "bootstrap": "^3.0.0",
+    "jquery":"^1.9.0"
+  },
 }
