@@ -1,6 +1,6 @@
 {
   "name": "propeller",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "homepage": "http://propeller.in/",
   "authors": [
     "Digicorp, Inc"
@@ -25,5 +25,5 @@
   "dependencies": {
     "bootstrap": "^3.0.0",
     "jquery":"^1.9.0"
-  },
+  }
 }
