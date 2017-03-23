@@ -26,5 +26,6 @@
   "dependencies": {
     "propellerkit":"*.*.*",
     "select2": "^4.0.2",
+    "select2-bootstrap-theme":"^0.1.0-beta.4"
   }
 }
